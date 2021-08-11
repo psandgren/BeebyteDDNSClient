@@ -3,6 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/psandgren/BeebyteDDNSClient/</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/psandgren/BeebyteDDNSClient/</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
